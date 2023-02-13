@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+logs
+*.log
+server/utils/*/*.txt
+excel-export/*
+.env

@@ -4,4 +4,4 @@ logs
 *.log
 server/utils/*/*.txt
 excel-export/*
-.env
+# .env
